@@ -1,7 +1,7 @@
 ﻿/* Задача 4: 
 Напишите программу, которая принимает на вход
 три числа и выдаёт максимальное из этих чисел. */
-Console.WriteLine("Введите nhb целых числа");
+Console.WriteLine("Введите три целых числа");
 Console.WriteLine("Первое число: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Второе число: ");
